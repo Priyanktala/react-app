@@ -1,0 +1,76 @@
+{
+  "product": [
+    {
+      "id": "101",
+      "img": "https://farmasmart.com/wp-content/uploads/2022/05/7501124820602.jpg",
+      "name": "Abacavir",
+      "quantity": "25",
+      "price": "150",
+      "expiry": "2022"
+    },
+    {
+      "id": "102",
+      "img": "https://www.lifecareneuro.com/wp-content/uploads/2023/07/ZOTOIN-100.jpg",
+      "name": "Eltrombopag",
+      "quantity": "90",
+      "price": "550",
+      "expiry": "2026"
+    },
+    {
+      "id": "103",
+      "img": "https://5.imimg.com/data5/SELLER/Default/2023/6/318184710/DL/TD/UX/9469980/muvera-meloxicam-tablets.jpg",
+      "name": "Meloxicam",
+      "quantity": "85",
+      "price": "450",
+      "expiry": "2025"
+    },
+    {
+      "id": "104",
+      "img": "https://www.krishlarpharma.com/wp-content/uploads/2019/12/KRITHRO-500-tablet.jpg",
+      "name": "Allopurinol",
+      "quantity": "50",
+      "price": "600",
+      "expiry": "2025"
+    },
+    {
+      "id": "105",
+      "img": "https://5.imimg.com/data5/SELLER/Default/2021/2/PN/NU/PM/80481671/abalam-tablet.jpg",
+      "name": "Phenytoin",
+      "quantity": "250",
+      "price": "250",
+      "expiry": "2025"
+    },
+    {
+      "id": "106",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBoytwQDIgY-5vSlMTDS1tFyniNMgMesZOOw&usqp=CAU",
+      "name": "Azithromycin",
+      "quantity": "63",
+      "price": "255",
+      "expiry": "2026"
+    },
+    {
+      "id": "107",
+      "img": "https://texinkart.com/cdn/shop/products/Calpol-500----Paracetamol-Tablets-IP-500mg---15Tablets-GSK-1667079349.jpg?v=1667079350",
+      "name": "Albuterol",
+      "quantity": "67",
+      "price": "340",
+      "expiry": "2026"
+    },
+    {
+      "id": "108",
+      "img": "https://bepharco.com/Data/Sites/1/Product/8729/cephalexin-2.jpg",
+      "name": "Cephalexin",
+      "quantity": "25",
+      "price": "150",
+      "expiry": "2022"
+    },
+    {
+      "id": "f71a",
+      "img": "https://5.imimg.com/data5/SELLER/Default/2023/8/337313153/HK/FV/II/57623134/buy-albuterol-hfa-90-mcg-inhaler-online.jpg",
+      "name": "Paracetamol-Tablets-IP-500mg ",
+      "quantity": "36",
+      "price": "200",
+      "expiry": "2025"
+    }
+  ]
+}
